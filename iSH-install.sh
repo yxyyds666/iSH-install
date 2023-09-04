@@ -1,4 +1,4 @@
-#!/bin/bash
+
 echo "安装iSH-Tools"
 apk update #更新
 apk add wget bash #安装工具
